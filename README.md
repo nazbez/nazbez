@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Nazar** and I am software engineer from Kharkiv, Ukraine.
+My name is **Nazar** and I am a software engineer from Kharkiv, Ukraine.
 
 ### Socials
 
